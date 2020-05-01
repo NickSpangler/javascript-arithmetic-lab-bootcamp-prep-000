@@ -13,3 +13,6 @@ function divide(a, b) {
 function increment(n) {
   return parseInt(n += 1)
 }
+function decrement(n) {
+  return parseInt(n -= 1)
+}
