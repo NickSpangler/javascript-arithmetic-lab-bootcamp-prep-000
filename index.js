@@ -11,5 +11,5 @@ function divide(a, b) {
   return (a /= b)
 }
 function increment(n) {
-  return parseInt(n) += 1
+  return (parseInt(n) += 1)
 }
